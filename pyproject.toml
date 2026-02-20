@@ -1,0 +1,12 @@
+[project]
+name = "vshc"
+version = "0.1.0"
+description = "Veicm's Simple Helper Collection"
+authors = [{ name = "Veicm" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
