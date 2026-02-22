@@ -1,6 +1,6 @@
 [project]
 name = "vshc"
-version = "0.1.0"
+version = "0.0.1"
 description = "Veicm's Simple Helper Collection"
 authors = [{ name = "Veicm" }]
 readme = "README.md"
