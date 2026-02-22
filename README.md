@@ -12,19 +12,19 @@ VSHC (Veicm’s Simple Helper Collection) is a modular and scalable Python utili
 
 ## Installation
 
-Stable Release (Recommended):
+#### Stable Release (Recommended):
 
 ```shell
 pip install vshc
 ```
 
-Rolling-release (only for development purposes):
+#### Rolling-release (only for development purposes):
 
 ```shell
 pip install git+https://github.com/Veicm/VSHC.git
 ```
 
-Version-Specific Installation:
+#### Version-Specific Installation:
 
 ```shell
 pip install vshc==0.0.2
