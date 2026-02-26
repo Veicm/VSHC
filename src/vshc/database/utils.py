@@ -14,8 +14,6 @@ def detect_id_gap(
     (typically a PRIMARY KEY) and returns the first gap in ascending order.
 
     Example:
-        `id: int = detect_id_gap(
-
         IDs in table: [0, 1, 2, 4, 5]
         -> returns 3
 
