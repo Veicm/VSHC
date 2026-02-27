@@ -1,6 +1,8 @@
 from sqlite3 import Cursor
 from typing import Optional
 
+__all__ = ["detect_id_gap"]
+
 
 def detect_id_gap(
     db_cursor: Cursor,

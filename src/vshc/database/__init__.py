@@ -1,3 +1,3 @@
-from .utils import detect_id_gap
+from . import utils
 
-__all__ = ["detect_id_gap"]
+__all__ = ["utils"]
