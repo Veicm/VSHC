@@ -141,39 +141,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://github.com/Veicm/
 
 ### Your First Code Contribution
 
-##### 1. Fork the repo
-
-##### 2. Clone your fork locally
-
-```Shell
-git clone -b dev https://github.com/[Your user name]/ScriptumCheck.git
-```
-
-##### 3. Create a new branch
-
-```shell
-git checkout -b [feature name]
-```
-
-##### 4. Program your feature
-
-##### 5. Upload your changes
-
-```shell
-git add .
-git commit -m "[What did you change]"
-git push origin [feature name]
-```
-
-##### 6. Create a PR
-
-### Commit Messages
-
-Commit messages should be a short summery of the changes since the last commit.
-
-## Styleguides
-
-Follow the PEP8 standard over the entire code base.
+**Please follow the [Development Guide](https://github.com/Veicm/VSHC/blob/main/docs/development-guide.md)**
 
 ## Join The Project Team
 
