@@ -74,7 +74,7 @@ You do not need to manually activate the environment. Always prefer `uv run` for
 
 ## 4. Install Development Dependencies
 
-Install the project in editable mode including development dependencies:
+Install the project and development dependencies:
 
 ```bash
 uv sync --all-extras
